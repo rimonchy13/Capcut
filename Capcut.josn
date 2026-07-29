@@ -1,14 +1,9 @@
-[
-    {
-        "device_id": "f71db5e07146eee8",
-        "key": "admin12345",
-        "expirydate": "31-12-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    }
-]
+{
+  "status": false,
+  "new_version": "2",
+  "dialog_data": {
+    "title": "New Update Available",
+    "download_link": "https://t.me/CC_Template_igg",
+    "whats_new": "আপনার ব্যবহৃত অ্যাপসটির মধ্যে আপডেট এসেছে নিচের আপডেট বাটনে ক্লিক করে আমাদের টেলিগ্রাম চ্যানেলের জয়েন হয়ে আপনার ব্যবহৃত এই অ্যাপসটির নতুন ভার্সন ডাউনলোড করে নিন!\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nThere is an update for the app you are using. Click the Update button below to join our Telegram channel and download the new version of the app you are using."
+  }
+}
